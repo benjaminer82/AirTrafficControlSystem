@@ -1,0 +1,1 @@
+java -classpath .;jade.jar;http.jar jade.Boot -gui -mtp jade.mtp.http.MessageTransportProtocol java jade.Boot Server:Aircraft Sender:Jack Sender:Sender 
